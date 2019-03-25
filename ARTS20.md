@@ -51,13 +51,13 @@ public boolean isPalindrome(ListNode head) {
 ```
 
 ### Review
-这周翻译了一篇文章，关于一个在线的编辑器（CodeSandbox）的文章。
+
+这周翻译了一篇文章，关于一个在线的编辑器（[CodeSandbox](https://hackernoon.com/announcing-codesandbox-v3-4febbaba1963)）的文章。
 
 这是 CodeSandbox 的第三个版本，在这个版本中，CodeSandbox 带来了全新的特性，全面引入了 VSCode 的编辑方式和快捷键，而且也带来了全新的设计界面。
 
 在新版中，写代码有更好的体验，左边写代码，右边就能看到执行的结果，体验相比与之前的版本有了很大的提高，而且在后续的版本中，CodeSandbox 会有更加全面的补充。
 
-// Todo 补充原文章
 
 ### Tip
 无
